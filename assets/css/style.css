@@ -959,7 +959,8 @@ p {
     padding-bottom: 80px; } }
 
 .single-work {
-  position: relative; }
+  position: relative; 
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);}
   .single-work .work-image img {
     width: 100%; }
   .single-work .work-overlay {
